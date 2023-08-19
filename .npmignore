@@ -2,7 +2,6 @@
 *.test.ts
 *.dev.ts
 src
-dist/cdk
 node_modules
 .prettierrc
 jest.config.js
@@ -12,4 +11,3 @@ tsconfig.es.json
 tsconfig.types.json
 tslint.json
 .vscode
-cdk.out
